@@ -1,0 +1,22 @@
+List of key PSS/E simulation parameter settings used in the analysis of the
+simplified 14-generator model of the South East Australian power system.
+
+(1) System frequency: 50 Hz
+
+(2) Dynamics solution parameters:
+
+(2.1) Network solution parameters:
+(2.1.1) Maximum iterations:  100
+(2.1.2) Acceleration factor: 0.1
+(2.1.3) Solution tolerance:  0.0001
+
+(2.2) Simulation parameters:
+(2.2.1) Integration time step:              0.001 s
+(2.2.2) Bus-frequency filter time-constant: 0.02 s
+
+
+(3) Simulation Options:
+(3.1) Network frequency dependence: Enabled
+(3.2) Relative rotor-angles:        Enabled, rotor-angles are relative to
+                                    system weighted average angle.
+                                      
