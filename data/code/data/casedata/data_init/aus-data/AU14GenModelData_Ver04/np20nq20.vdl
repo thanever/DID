@@ -1,0 +1,13 @@
+
+%NP=2, NQ=2
+
+
+% Region  Region           A1/B1   A2/B2   A3/B3 MP1/MQ1 MP2/MQ2 MP3/MQ3 
+% Type    Name/Number
+
+===START RVDL DATA
+
+  SYSTEM                   1.000   0.000   0.000   2.000   0.000   0.000
+                           1.000   0.000   0.000   2.000   0.000   0.000
+
+===END RVDL DATA
